@@ -1,3 +1,5 @@
+![logo](https://github.com/Maxime-Bakunzi/edulessonhub/assets/122438430/0422847f-9337-43a7-93c9-3d609bb59b07)
+
 # Edulearninghub
 
 ## Abstract
@@ -91,3 +93,12 @@ Edulearninghub addresses:
 
 - **Software**: Node.js, Next.js, React, Prisma, MySQL, Stripe, Mux.
 - **Hardware**: Standard development machines with internet connectivity.
+
+## Github of Our Programmers
+
+[Maxime-Guy](https://github.com/Maxime-Guy)
+[Elvis-Guy](https://github.com/Elvis-Guy)
+[IraduhayeBukuruPaterne1](https://github.com/IraduhayeBukuruPaterne1)
+[jmukamani](https://github.com/jmukamani)
+[winnyineza](https://github.com/winnyineza)
+[SammyGbabs](https://github.com/SammyGbabs)
