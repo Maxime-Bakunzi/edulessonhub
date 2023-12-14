@@ -1,34 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Edulearninghub
 
-## Getting Started
+## Abstract
 
-First, run the development server:
+Edulearninghub is an innovative Learning Management System (LMS) set to redefine online education. Using Next.js 13, React, Stripe, Mux, Prisma, Tailwind, and MySQL, our platform delivers an immersive and interactive learning experience for educators and learners.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Needs Assessment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The needs assessment revealed a demand for an LMS beyond traditional offerings. Feedback highlighted the urgency for intuitive interfaces, versatile content support, and secure payment processing. Technical feasibility studies validated our choice of technologies, ensuring we address these needs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scope Definition
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Edulearninghub addresses:
+- **User-Friendly Interface**: Intuitive design for educators and learners.
+- **Content Diversity**: Support for various media types.
+- **Secure Transactions**: Integration of the Stripe payment gateway.
+- **Video Streaming**: Leveraging Mux for high-quality video streaming.
+- **Data Management**: Using Prisma and MySQL for efficient data handling.
+- **Responsive Design**: Utilizing Tailwind for visually appealing and responsive design.
 
-## Learn More
+## Design Constraints
 
-To learn more about Next.js, take a look at the following resources:
+- **Compatibility**: Cross-device and browser compatibility.
+- **Scalability**: Structured for a growing user base and content volume.
+- **Security**: Robust measures to safeguard user data and ensure compliance.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Solution Design
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### High-Level Design Elements
 
-## Deploy on Vercel
+- **Frontend (Next.js 13 and React)**: Modular approach for dynamic UI.
+- **Backend (Prisma, MySQL)**: Efficient and scalable database schema.
+- **Payment Processing (Stripe)**: Secure and efficient transactions.
+- **Video Streaming (Mux)**: High-quality video streaming.
+- **Styling (Tailwind)**: Consistent and visually appealing design.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Plan
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Task Breakdown and Distribution
+
+### Frontend Development
+
+- **Team Members**: Elvis, Winny, Maxime
+- **Tasks**:
+  - UI component design and implementation with React and Next.js
+  - Crafting seamless navigation elements
+  - Implementing robust user authentication
+
+### Backend Development
+
+- **Team Members**: Maxime, Elvis, Paterne
+- **Tasks**:
+  - Database schema design and implementation with Prisma and MySQL
+  - Developing robust APIs for data interactions
+  - Implementing user management features
+
+### Payment Integration
+
+- **Team Members**: Maxime, Paterne
+- **Tasks**:
+  - Integrating Stripe API for secure payment processing
+  - Implementing subscription plans, discounts, and refunds
+
+### Video Streaming
+
+- **Team Members**: Elvis, Samuel, Juliet
+- **Tasks**:
+  - Integrating Mux for video content management and streaming
+  - Implementing features for video upload, transcoding, and playback
+
+### Styling and UI/UX
+
+- **Team Members**: Winny, Juliet
+- **Tasks**:
+  - Implementing Tailwind for visually appealing design
+  - Ensuring responsive design for optimal user experience
+
+## Roadblocks and Bottlenecks
+
+### Potential Roadblocks
+
+- Addressing limitations and updates in third-party APIs
+- Technical challenges with video streaming optimization and transcoding
+
+### Bottlenecks
+
+- Meeting integration timelines with simultaneous development efforts
+- Learning curves for team members unfamiliar with certain technologies
+
+## External Requirements
+
+- **Software**: Node.js, Next.js, React, Prisma, MySQL, Stripe, Mux.
+- **Hardware**: Standard development machines with internet connectivity.
