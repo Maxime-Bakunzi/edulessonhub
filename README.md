@@ -96,9 +96,9 @@ Edulearninghub addresses:
 
 ## Github of Our Programmers
 
-[Maxime-Guy](https://github.com/Maxime-Guy)
-[Elvis-Guy](https://github.com/Elvis-Guy)
-[IraduhayeBukuruPaterne1](https://github.com/IraduhayeBukuruPaterne1)
-[jmukamani](https://github.com/jmukamani)
-[winnyineza](https://github.com/winnyineza)
-[SammyGbabs](https://github.com/SammyGbabs)
+- [Maxime-Guy](https://github.com/Maxime-Guy)
+- [Elvis-Guy](https://github.com/Elvis-Guy)
+- [IraduhayeBukuruPaterne1](https://github.com/IraduhayeBukuruPaterne1)
+- [jmukamani](https://github.com/jmukamani)
+- [winnyineza](https://github.com/winnyineza)
+- [SammyGbabs](https://github.com/SammyGbabs)
